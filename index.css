@@ -1,3 +1,18 @@
+li{
+    list-style-type: none;
+    font-weight: 400;
+
+}
 .nav-link .active{
     color: #17A3B0;
+}
+.cards{
+    flex-direction: column;
+    margin-top: 5em;
+    border: 1px solid #d0d0d0;
+    border-radius: 10px;
+    padding: 2em 1em;
+    box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+    height: 40vh;
+    justify-content: space-between;
 }
