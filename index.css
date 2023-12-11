@@ -16,3 +16,6 @@ li{
     height: 40vh;
     justify-content: space-between;
 }
+.btn-custom{
+    color: #8CAE48;
+}
