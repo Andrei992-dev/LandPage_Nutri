@@ -3,6 +3,7 @@ li{
     font-weight: 400;
 
 }
+
 .nav-link .active{
     color: #17A3B0;
 }
@@ -18,4 +19,14 @@ li{
 }
 .btn-custom{
     color: #8CAE48;
+}
+.servicos div{
+    text-align: center;
+}
+.servicos div i{
+    font-size: 40px;
+    color: #17A3B0;
+}
+.servicos div p{
+    font-weight: 500;
 }
