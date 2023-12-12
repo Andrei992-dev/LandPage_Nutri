@@ -24,7 +24,7 @@ li{
     text-align: center;
 }
 .servicos div i{
-    font-size: 40px;
+    font-size: 30px;
     color: #17A3B0;
 }
 .servicos div p{
@@ -33,17 +33,7 @@ li{
 .bi-star-fill{
     color: gold;
 }
-.avaliacao{
-    margin: 1em 1em;
-    border: 1px solid #d0d0d0;
-    border-radius: 10px;
-    padding-top: 2em;
-    padding-left: 2em;
-    box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
-}
-.avaliacao div div p{
-    font-weight: bold;
-}
+
 .cards_avaliacao div div{
     justify-content: space-between;
 }
