@@ -39,6 +39,12 @@ li{
 .cards_avaliacao div div{
     justify-content: space-between;
 }
+.carousel-item img{
+    height: 400px;
+}
+.carousel-item iframe{
+    height: 400px;
+}
 @media (max-width: 600px) {
     .carousel .slide{
         width: 74vh;
