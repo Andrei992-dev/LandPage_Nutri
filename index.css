@@ -51,5 +51,10 @@ li{
         height: 200px;
         
     }
+    .carousel-item img{
+        height: 299px;
+    }
+    .carousel-item iframe{
+        height: 299px;
+    }
 }
-
