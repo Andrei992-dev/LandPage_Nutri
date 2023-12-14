@@ -39,4 +39,11 @@ li{
 .cards_avaliacao div div{
     justify-content: space-between;
 }
+@media (max-width: 600px) {
+    .carousel .slide{
+        width: 74vh;
+        height: 200px;
+        
+    }
+}
 
