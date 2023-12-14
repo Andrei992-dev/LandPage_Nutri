@@ -52,9 +52,9 @@ li{
         
     }
     .carousel-item img{
-        height: 299px;
+        height: 200px;
     }
     .carousel-item iframe{
-        height: 299px;
+        height: 200px;
     }
 }
